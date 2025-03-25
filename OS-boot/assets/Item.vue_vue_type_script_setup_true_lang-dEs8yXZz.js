@@ -1,1 +1,0 @@
-import{d as s,f as t,o,i as a,g as r,t as n,j as i}from"./modules/vue-BEyp6dsv.js";import{u as l}from"./slidev/context-BykzqUP0.js";const m={class:"item"},d={key:0},f=s({__name:"Item",props:{title:{}},setup(p){return l(),(e,c)=>(o(),t("div",m,[e.title?(o(),t("header",d,n(e.title),1)):a("v-if",!0),r("main",null,[i(e.$slots,"default")])]))}});export{f as _};
