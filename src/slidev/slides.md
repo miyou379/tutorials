@@ -54,7 +54,7 @@ A 王国是<font color=blue>[地球 🌍](https://zh.wikipedia.org/wiki/%E5%9C%B
 
 <center>
 
-<img src="https://img.moegirl.org.cn/common/5/5f/World_Vanquisher.png" style="zoom:50%"/>
+<img src="https://s3.bmp.ovh/imgs/2025/03/25/933f710ee575cbf5.png" style="zoom:50%"/>
 <font size=2 color=grey>衣着品味比较奇怪的国王</font>
 
 </center>
@@ -75,8 +75,7 @@ hideInToc: true
 
 ---
 layout: iframe-left
-url: "https://web.archive.org/web/20130322172831/http://www.uefi.org/learning_c\
-  enter/UEFI_MBR_Limits_v2.pdf"
+url: "https://web.archive.org/web/20130322172831/http://www.uefi.org/learning_center/UEFI_MBR_Limits_v2.pdf"
 ---
 
 # 分区表: 国王记录封地的小本本
